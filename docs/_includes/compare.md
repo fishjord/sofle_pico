@@ -4,6 +4,7 @@ Embedding the svg is required to manipulate the svg elements with JavaScript.
 If you edit the svg, you may need to manually remove an xml header.
 The default checked state in the html corresponds to layer visibility in inkscape.
 {%- endcomment -%}
+
 <style>
   #compare_toggles {
     padding: 15px 0 0 15px;
@@ -20,6 +21,7 @@ The default checked state in the html corresponds to layer visibility in inkscap
     border-bottom: 10px solid white;
   }
 </style>
+
 <nav id="compare_toggles">
   <div class="toggle" style="border-bottom-color: #DB2F49;">
     <input type="checkbox" id="sofle_v1" value="g2889" checked>

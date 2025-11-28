@@ -1,11 +1,6 @@
----
-layout: page
-title: Default keymap
-description: Default keymap for the Sofle Pico, derived from the Sofle V1
-permalink: flashing/drag-and-drop
-parent: Flashing
-nav_order: 5
----
+______________________________________________________________________
+
+## layout: page title: Default keymap description: Default keymap for the Sofle Pico, derived from the Sofle V1 permalink: flashing/drag-and-drop parent: Flashing nav_order: 5
 
 ## Default keymap
 
